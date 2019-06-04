@@ -1,5 +1,7 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+[![Build Status](https://baruchw.visualstudio.com/MScalculator/_apis/build/status/Baruchw.MScalculator?branchName=master)](https://baruchw.visualstudio.com/MScalculator/_build/latest?definitionId=42&branchName=master)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
@@ -13,4 +15,3 @@ To build, simply:
 
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
-

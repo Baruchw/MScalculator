@@ -30,3 +30,4 @@ steps:
     reportDirectory: 'coverage/report'
 - task: WhiteSource Bolt@19
   inputs:
+    cwd: '/'
